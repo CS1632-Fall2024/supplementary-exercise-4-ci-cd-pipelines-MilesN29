@@ -32,7 +32,7 @@
   <scm>
     <connection>scm:git:git://github.com/wonsunahn/CS1632_CICD_JUnit.git</connection>
     <developerConnection>scm:git:ssh://github.com:wonsunahn/CS1632_CICD_JUnit.git</developerConnection>
-    <>http://github.com/wonsunahn/CS1632_CICD_JUnit/tree/master</url>
+    <url>http://github.com/wonsunahn/CS1632_CICD_JUnit/tree/master</url>
   </scm>
 
   <distributionManagement>
