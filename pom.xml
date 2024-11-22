@@ -41,7 +41,7 @@
       <name>GitHub Apache Maven Packages</name>
       <url>https://maven.pkg.github.com/CS1632-Fall2024/supplementary-exercise-4-ci-cd-pipelines-MilesN29</url>
     </repository>
-  </distributionManagement>Ï
+  </distributionManagement>
 
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
